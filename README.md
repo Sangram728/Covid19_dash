@@ -37,4 +37,3 @@ The dashboard integrates with two main APIs:
 ```bash
 git clone <repository-url>
 
-![image](https://github.com/user-attachments/assets/39efc4c8-1497-481e-9cb0-adac86355308)
